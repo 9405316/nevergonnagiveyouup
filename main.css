@@ -1,7 +1,17 @@
-html,video {
+html,{
 margin: 0;
 padding: 0;
 }
 html {
   height: 100%
+}
+
+.video {
+  position: relative;
+  margin: 0 auto;
+  max-width: 720px;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
 }
