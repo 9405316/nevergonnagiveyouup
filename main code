@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Rick Astley</title>
+  </head>
+  <body>
+    <video src="blob:https://www.youtube.com/2838f979-f64c-4538-a31e-3ee10dacd01e" controls autoplay loop>Video Not Supported</video>
+  </body>
+</html>
